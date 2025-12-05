@@ -1,0 +1,5 @@
+{
+  "name": "LabGuard & Creative Studio",
+  "description": "A comprehensive laboratory Quality Control analysis tool with Westgard rules and Levey-Jennings charts, featuring an integrated AI Creative Studio for image generation and editing using Gemini models.",
+  "requestFramePermissions": []
+}
